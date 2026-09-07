@@ -1,5 +1,5 @@
 Title: X-Men - Arcade
 Author: JOTEGO
 URL: https://github.com/jotego/jtcores/tree/master/cores/xmen
-Requirements: JOTEGO Framework 
-Status: ACTIVE - hidden official jt539 module.
+Requirements: JOTEGO Framework - hidden official jt539 module.
+Status: ACTIVE
